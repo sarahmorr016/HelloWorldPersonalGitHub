@@ -19,5 +19,8 @@ x = 5.7
 print (x)
 print(type(x))
 #float data type
-print(math.pow(2,3))
+print(math.pow(2,4))
 print(math.asin(0))
+
+#IO (input output)
+print()
